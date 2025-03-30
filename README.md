@@ -5,8 +5,7 @@
 Blog: [https://bomlee427.github.io/](https://bomlee427.github.io/)
 
   
-개발을 더 잘 하고 싶은 개발자.  
-자만하지 않고, 게으르지 않고, 포기하지 않으려 합니다.
+Keep Further, Keep Better
 
 
 
