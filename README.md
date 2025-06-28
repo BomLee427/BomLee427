@@ -8,6 +8,12 @@
 Blog: [https://bomlee427.github.io/](https://bomlee427.github.io/)
 
 
+<img src="dont-think.jpg" width="500" alt="무슨 생각 하냐는 질문에, '무슨 생각을 해...그냥 하는 거지' 라고 답하는 김연아 선수 짤방.">
+
+개발에는 지름길이 없다는 걸 이제야 깨달은 1년차 개발자.
+
+그래도 하루 한 뼘이라도 앞으로 가려고 합니다.
+
 
 <!--
 
